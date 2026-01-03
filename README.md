@@ -25,9 +25,10 @@ This project replicates the design and functionality of the scholarship page wit
 ## 📂 Project Structure
 -
 - index.html        # Homepage
--css                # Css folder
+- css                # Css folder
    - style.css         # Stylesheet
    - media.css         # Stylesheet For Responsive
--js
+
+- js
    - app.js         # JavaScript functionality
 - images           # Images, icons, or other resources
