@@ -28,5 +28,6 @@ This project replicates the design and functionality of the scholarship page wit
 -css                # Css folder
    - style.css         # Stylesheet
    - media.css         # Stylesheet For Responsive
-- app.js         # JavaScript functionality
+-js
+   - app.js         # JavaScript functionality
 - images           # Images, icons, or other resources
