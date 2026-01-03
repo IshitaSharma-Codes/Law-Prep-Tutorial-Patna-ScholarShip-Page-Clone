@@ -32,3 +32,4 @@ This project replicates the design and functionality of the scholarship page wit
 - js
    - app.js         # JavaScript functionality
 - images           # Images, icons, or other resources
+## Clone Repo: https://github.com/IshitaSharma-Codes/Law-Prep-Tutorial-ScholarShip-Page-Clone
